@@ -18,3 +18,5 @@ ipython_config.py
 # End of https://www.gitignore.io/api/jupyternotebooks
 
 .directory
+.virtual_documents
+
