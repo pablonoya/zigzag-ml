@@ -25,4 +25,4 @@ O el clásico Jupyter Notebook:
 Ahora puedes dirigirte al capítulo 0 si tienes conocimiento de los Jupyter Notebooks 😉.
 O al capítulo -1, para aprender un poco cómo funcionan 😃.
 
-¡Feliz aprendizaje!
+¡Feliz aprendizaje! 📖
